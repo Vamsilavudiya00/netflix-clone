@@ -1,0 +1,19 @@
+.header_carousel{
+    width: 100vw;
+    height: 80vh;
+}
+.header_carousel img{
+    width: 100%;
+    height: 80vh;
+    object-fit: cover;
+}
+.header_carousel span{
+    width: 100%;
+    height: 250px;
+    position: absolute;
+    bottom: 0;
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 100%);
+    display: block;
+    z-index: 1;
+
+}
