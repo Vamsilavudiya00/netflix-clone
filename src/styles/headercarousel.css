@@ -1,6 +1,7 @@
 .header_carousel{
     width: 100vw;
     height: 80vh;
+    position: relative;
 }
 .header_carousel img{
     width: 100%;
